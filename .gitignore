@@ -1,0 +1,12 @@
+# Local-only materials and secrets
+private-evidence/
+CAREER_TEXT.md
+EVIDENCE_AUDIT.md
+PUBLISHING_STEPS.md
+*.key
+*.pem
+.env
+*.vdi
+*.vmdk
+*.ova
+*.ovf
